@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <order_Id>1</order_Id>
+    <prod_name>Green Herbs</prod_name>
+    <prod_price>50</prod_price>
+    <qty>2</qty>
+    <price>100</price>
+    <tab_Id>6</tab_Id>
+    <order_date>2021-11-09T00:00:00+05:30</order_date>
+    <totamnt>235</totamnt>
+    <payble_amnt>277</payble_amnt>
+  </Table>
+  <Table>
+    <order_Id>1</order_Id>
+    <prod_name>Coca Cola</prod_name>
+    <prod_price>15</prod_price>
+    <qty>3</qty>
+    <price>45</price>
+    <tab_Id>6</tab_Id>
+    <order_date>2021-11-09T00:00:00+05:30</order_date>
+    <totamnt>235</totamnt>
+    <payble_amnt>277</payble_amnt>
+  </Table>
+  <Table>
+    <order_Id>1</order_Id>
+    <prod_name>Sprite</prod_name>
+    <prod_price>15</prod_price>
+    <qty>6</qty>
+    <price>90</price>
+    <tab_Id>6</tab_Id>
+    <order_date>2021-11-09T00:00:00+05:30</order_date>
+    <totamnt>235</totamnt>
+    <payble_amnt>277</payble_amnt>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,316 @@
+E:\sem-5\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+E:\sem-5\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+E:\sem-5\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+E:\sem-5\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\sem-5\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\c#\0_C#_project\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+E:\sem-5\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Order.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+C:\Users\lalpur\Downloads\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.order.resources
+D:\c#\0_C#_project\saanu\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.frmDisplay.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\keval\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.frmDisplay.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Record.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\HiralPandya\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+E:\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+F:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\keval\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+H:\Reff_23\Reff_23\Final\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe.config
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.exe
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\signIn_form1.pdb
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\bin\Debug\aa\signIn_form1.resources.dll
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csprojResolveAssemblyReference.cache
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.Cache
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\aa\signIn_form1.resources.dll
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+D:\FINAL CAFE_Billing_System\Reff_23\Reff_23\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.AssemblyReference.cache
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.About_Us.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Home.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Billing.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.neworder.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Product.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.LOGIN.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Properties.Resources.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Registration.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.splash_screen.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.category.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.subcategory.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.tablemenu.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.Form1.aa.resources
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.GenerateResource.cache
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\Cafe Billing System.csproj.CoreCompileInputs.cache
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.exe
+E:\@All Projects\CAFE_Billing_System\cafe billing\Project\signIn_form1\signIn_form1\obj\Debug\signIn_form1.pdb
